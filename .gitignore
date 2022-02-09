@@ -1,0 +1,4 @@
+target
+.project
+deploy_pom.xml
+inventory_pom.xml
